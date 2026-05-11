@@ -16,10 +16,6 @@
 
 It uses a DLL injected into all running processes via a **CBT hook** (`SetWindowsHookEx`) to intercept specific API calls and prevent the target process from being listed.
 
-> ⚠️ **Educational Use Only**  
-> This project is intended for research, debugging, and reverse‑engineering education.  
-> It must not be used for malicious purposes.
-
 ---
 
 ## ✨ Features
