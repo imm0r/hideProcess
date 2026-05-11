@@ -8,7 +8,7 @@ running processes.
 Press Esc to exit the script.
 
 Note: if you do not compile the  script, AutoHotKey.exe gets hidden.  Otherwise the
-the name of the .exe gets hidden.
+name of the .exe gets hidden.
 
 Important: This does only work if you are using a x64 bit OS and the 64 bit version
 of AutoHotkey or if you're using a x86 bit OS and the 32 bit version of AutoHotkey.
